@@ -1,0 +1,1 @@
+[이 글](https://brunch.co.kr/@kys4620/38#:~:text=PARA%EB%8A%94%20Project%2C%20Area%2C%20Resource,%EB%94%94%EC%A7%80%ED%84%B8%20%EC%A0%95%EB%B3%B4%20%EB%B6%84%EB%A5%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9E%85%EB%8B%88%EB%8B%A4.)을 참고

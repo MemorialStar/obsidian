@@ -100,6 +100,11 @@ Non-latin languages are supported too: ==你好==, ==안녕하세요==, ==こん
 
 You can add code blocks with full syntax color highlighting by wrapping code snippet in triple backticks and specifying the type of the code (`js`, `rb`, `sh`, etc.):
 
+```python
+def hello() :
+	print('Hello world!')
+```
+
 ```js
 // Here's a bit of JavaScript:
 console.log('hello!')
