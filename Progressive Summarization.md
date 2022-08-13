@@ -15,4 +15,4 @@ Progressive Summarization은 그 많은 요리법 중 하나이며, 이는 아�
 ![[Progressive Summarization.png]]
 
 
-이 방법을 [[PARA 방법론]]에 적용하는 것. 그것이 [[두 번째 뇌 만들기|제 2의 뇌]]를 만드는 가장 기초적인 방법이다.
+이 방법을 [[_notes/3/PARA 방법론]]에 적용하는 것. 그것이 [[두 번째 뇌 만들기|제 2의 뇌]]를 만드는 가장 기초적인 방법이다.
