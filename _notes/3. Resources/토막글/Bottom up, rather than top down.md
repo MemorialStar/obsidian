@@ -2,7 +2,7 @@
 
 *카테고리가 소비(consumption) 지향적이라면, 프로젝트는 생산(production) 지향적이다.*
 
-더 알아보기 | [[PARA 방법론]]
+더 알아보기 | [[_notes/3. Resources/토막글/PARA 방법론]]
 
 
 #카테고리 #프로젝트관리
