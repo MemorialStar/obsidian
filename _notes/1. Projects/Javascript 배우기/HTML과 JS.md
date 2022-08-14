@@ -23,4 +23,6 @@ HTML와 JS는 다른 언어이다.
 > 웹브라우저의 <네트워크> 항목에 들어가면 해당 페이지에서 어떤 파일들을 불러오고 있는지와 그 코드를 확인할 수 있다.
 > 콘솔 항목에서는 코드 상에 어떤 에러가 발생했는지 디버깅을 할 수 있다.
 > 
+> 혹은 콘솔 상에 바로 JS 코드를 돌려 [간단한 문제를 해결](https://www.youtube.com/watch?v=-VKIqaEdDVU&list=PLuHgQVnccGMBB348PWRN0fREzYcYgFybf&index=5)할 수도 있다.
+> 
 > ![[크롬에서 HTML의 어떤 파일들을 불러오고 있는지 확인 가능.png]]
