@@ -7,7 +7,7 @@ end-date: 2022-08
 ---
 
 # 목표
-![[Momentum.png]]
+![[assets/Momentum.png]]
 를 Vanila js를 이용하여 구현하기
 
 ---
