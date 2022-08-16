@@ -1,0 +1,6 @@
+```Javascript
+windows.onload = function(){
+	
+}
+
+```
