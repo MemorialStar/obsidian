@@ -1,3 +1,0 @@
-다음 [링크](https://refuse.tistory.com/20) 참고
-
-#C #code
