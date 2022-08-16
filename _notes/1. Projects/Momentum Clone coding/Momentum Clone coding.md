@@ -1,6 +1,6 @@
 ---
 title: Momentum clone coding
-tags: HTML, javascript, 프로젝트, 클론코딩, 코딩, 프로그래밍
+tags: html, javascript, 프로젝트, 클론코딩, 코딩, 프로그래밍, coding, project
 state: 진행중
 start-date: 2022-08
 end-date: 2022-08
