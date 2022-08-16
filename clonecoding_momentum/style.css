@@ -1,0 +1,12 @@
+body {
+    background-color: beige;
+    color: black;
+}
+
+h1 {
+    color: black;
+}
+
+.active {
+    color: tomato;
+}
