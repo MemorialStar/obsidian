@@ -15,3 +15,22 @@ end-date: 2022-08
 
 
 # Blocks
+[[이벤트를 입력받고 싶을 때]]
+[[이전의 class를 유지하면서도 새로 추가 및 삭제하여 변경하고 싶을 때]][[Momentum Clone coding]]
+[[JS 색상 비교]]
+[[형변환]]
+[[array]]
+[[CSS와 JS에서 동시에 색깔을 바꾸려고 할 때]]
+[[document에 대하여]]
+[[Event 종류]]
+[[head, title, body는 document에서 바로]]
+[[HTML에서 태그 안에 있는 텍스트를 바꾸고 싶다면]]
+[[HTML요소를 불러오는 방법]]
+[[Illegal invocation]]
+[[JS 난독화]]
+[[Momentum Clone coding]]
+[[NaN인지 확인해주는 코드]]
+[[null v.s. undefined]]
+[[on이 붙어있는 요소들]]
+[[string + number]]
+[[var 대신 let, const]]
