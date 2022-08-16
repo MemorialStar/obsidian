@@ -1,15 +1,15 @@
+```HTML
 <!DOCTYPE html>
 <html lang="ko">
 	<head>
-		<title> Momentum  </title>
+		<title> WriteTitleHere </title>
 		<link rel="stylesheet" href="style.css" />
 		<meta charset="utf-8" />
 	</head>
 
 	<body>
-		<h1>Hello</h1>
-		<p>hello world</p>
-        <script src="./app.js"> </script>
+		<script src='./script.js'></script>
 	</body>
 
 </html>
+```

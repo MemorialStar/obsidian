@@ -1,0 +1,1 @@
+[기본값 매개변수 - JavaScript | MDN (mozilla.org)](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Functions/Default_parameters)
