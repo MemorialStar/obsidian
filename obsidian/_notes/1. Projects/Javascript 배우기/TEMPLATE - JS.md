@@ -1,6 +1,0 @@
-```Javascript
-windows.onload = function(){
-	
-}
-
-```
