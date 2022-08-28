@@ -10,6 +10,7 @@ querySelector()
 	혹은 n 번째 요소를 갖고 오고 싶다면 querySelector('~*:nth-child(n)*')를 사용할 것
 
 	e.g.
-	document.querySelector(".hello h1") => hello class의 h1 항목들을 갖고 옴
+	document.querySelector(".hello h1") => hello class의 h1 항목을 갖고 옴
+	parent.querySelector('#first') => parent 객체의 id=first인 항목을 갖고 옴
 
 #javascript  #howto

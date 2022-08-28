@@ -1,3 +1,5 @@
+즉, 여러 개의 class를 사용하고 싶을 때
+
 element.classList.add('새로운 클래스');
 지우고 싶을 땐
 element.classList.remove('기존 클래스');
@@ -9,3 +11,5 @@ e.g. h1을 클릭할 때 'clicked'라는 클래스를 추가하여 이에 맞게
 
 h1.onclick
 h1.classLis
+
+#howto  #javascript  #code  
