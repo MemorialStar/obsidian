@@ -18,4 +18,4 @@ getValue = function(obj) {
 }
 loginButton.addEventListener('click', getValue.bind(null, loginInput));
 
-#error #readings #html #code 
+#error #readings #javascript  #code 

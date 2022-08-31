@@ -11,4 +11,4 @@ e.g.
 function onLoginSubmit(e) {e.preventDefault(); console.log(e);}
 loginForm.addEventListener("submit", onLoginSubmit);
 
-#howto  #html #code 
+#howto  #javascript  #code 

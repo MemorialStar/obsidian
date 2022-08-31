@@ -14,4 +14,4 @@ e.g.
 단, required를 html이 알아듣게 하기 위해서는 반드시 form 태그 안에 들어가 있어야 한다.
 
 
-#readings #html #code 
+#readings #code  #javascript 

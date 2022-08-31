@@ -28,7 +28,7 @@
 ### 2. Organize
 PARA에 맞추어 분류하기.
 ### 3. Distill
-[[Progressive Summarization]]을 이용하여 나에게 필요한 내용만 추출하기.
+[[_Progressive Summarization]]을 이용하여 나에게 필요한 내용만 추출하기.
 ### 4. Express
 나만의 언어로 뇌 속의 것들을 재창조하기.
 
