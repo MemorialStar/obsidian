@@ -20,6 +20,7 @@ end-date:
 페이지 |
 	[[시멘틱 태그를 사용해야 하는 이유]]
 	[[element 가운데 정렬]]
+	[[HTML - button]]
 ### 2. Counter
 목표 |
 	1. "Decrease", "Reset", "Increase" 버튼과 숫자 0, "Counter" 텍스트가 화면 중앙에 있어
