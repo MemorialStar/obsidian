@@ -1,4 +1,11 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "ko"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_Temp",
+  "attachmentFolderPath": "4. ARCHIVE/assets"
 }

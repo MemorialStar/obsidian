@@ -1,6 +1,6 @@
 매일 주어지고 배우는 일들을 카테고리로 정리하는 것은 [[Bottom up, rather than top down|그리 좋은 방법이 아니다]]. 그렇다면?
 내가 위 사실을 보게 된 [글](https://kr.analysisman.com/2022/06/secondbrain-10principles.html)에서는 PARA 이론을 소개한다.
-[[_notes/3. Resources/토막글/받아들이지 마라. 만들어라.|해봐야 안다]]고, 나도 앞으로 이 이론을 이용하여 [[두 번째 뇌 만들기|나의 일을 정리]]해보려고 한다.
+[[받아들이지 마라. 만들어라.|해봐야 안다]]고, 나도 앞으로 이 이론을 이용하여 [[두 번째 뇌 만들기|나의 일을 정리]]해보려고 한다.
 
 # Project, Area, Resource, and Archive [^참고]
 모든 디지털 정보는 다음 네 가지를 기준으로 정리할 수 있다.
