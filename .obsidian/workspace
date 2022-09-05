@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "536fe16d78f7181e",
+    "type": "split",
+    "children": [
+      {
+        "id": "97ce4ab989d8a5bb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Temp.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4d5f30e4549babae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00 두 번째 뇌.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6bc80527c837a3ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "b63f84864fa11c92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "342afcd6378741cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d84600b04a8c5834",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "temp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71bc139473f89dc9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "e363afef757d9f84",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b91fd77b141947e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f791a1f45f3bee1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Temp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d305a3e4fe8a1e3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Temp.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc573f633ad73bd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "903f246ac11d5223",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Temp.md"
+              }
+            }
+          },
+          {
+            "id": "40a750e65a43513f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "97ce4ab989d8a5bb",
+  "lastOpenFiles": [
+    "00 두 번째 뇌.md",
+    "Temp.md",
+    "_notes/1. Projects/WatBand/포인터란.md",
+    "_notes/1. Projects/WatBand/FFT in  Arduino.md",
+    "_notes/1. Projects/WatBand/BLE in Arduino.md",
+    "_notes/1. Projects/WatBand/ABOUT.md",
+    "Estimated reading time.md",
+    "4. Archives/Projects/Momentum Clone coding/CSS와 JS에서 동시에 색깔을 바꾸려고 할 때.md",
+    "ARCHIVE/Day Planners/Day Planner-20220831.md",
+    "ARCHIVE/_피조물.md"
+  ]
+}
