@@ -1,0 +1,3 @@
+isNan()
+
+#javascript #howto 

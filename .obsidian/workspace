@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "444e7bd954271037",
+        "id": "e670a131659cfef2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Temp/제텔카스텐.md",
+            "file": "4. ARCHIVE/1. Projects/WatBand 개발.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -17,12 +17,12 @@
         }
       },
       {
-        "id": "d60b3df082b7ac9e",
+        "id": "722982e985523cbe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. ARCHIVE/_Template/New Project.md",
+            "file": "4. ARCHIVE/1. Projects/ECG Analysis with Matlab.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -30,12 +30,12 @@
         }
       },
       {
-        "id": "23709a7ab6a415cd",
+        "id": "b821523b6a1f07bf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. ARCHIVE/00.00.a.01. 두 번째 뇌.md",
+            "file": "4. ARCHIVE/_Settings/00.00.01 두 번째 뇌.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -67,8 +67,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Book",
-                "matchingCase": false,
+                "query": "tag:#_coding",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. ARCHIVE/00.00.a.01. 두 번째 뇌.md",
+                "file": "4. ARCHIVE/1. Projects/WatBand 개발.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. ARCHIVE/00.00.a.01. 두 번째 뇌.md",
+                "file": "4. ARCHIVE/1. Projects/WatBand 개발.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. ARCHIVE/00.00.a.01. 두 번째 뇌.md"
+                "file": "4. ARCHIVE/1. Projects/WatBand 개발.md"
               }
             }
           },
@@ -163,17 +163,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "23709a7ab6a415cd",
+  "active": "e670a131659cfef2",
   "lastOpenFiles": [
-    "4. ARCHIVE/_Template/New Project.md",
-    "_Temp/제텔카스텐.md",
-    "4. ARCHIVE/00.00.a.01. 두 번째 뇌.md",
-    "4. ARCHIVE/_Template/TEMPLATE - Daily Note.md",
-    "4. ARCHIVE/Good Apps/광고는 소비자 중심으로.md",
-    "3. Resource/Books/생명이란 무엇인가.md",
-    "_Temp/temp. 생명이란 무엇인가.md",
-    "4. ARCHIVE/_Template/Book.md",
-    "_Temp/Pasted image 20220905183244.png.md",
-    "4. ARCHIVE/assets/BookCover-생명이란 무엇인가.png"
+    "4. ARCHIVE/1. Projects/ECG Analysis with Matlab.md",
+    "4. ARCHIVE/1. Projects/Project Management Seminar.md",
+    "4. ARCHIVE/1. Projects/WatBand 개발.md",
+    "2. Area/Programming/01.04.03 포인터란.md",
+    "2. Area/Programming/01.04.02 라이브러리 만들기.md",
+    "4. ARCHIVE/_Settings/00.00.01 두 번째 뇌.md",
+    "2. Area/Programming/01.04.01 enum 사용하기.md",
+    "4. ARCHIVE/1. Projects/WatBand/FFT in  Arduino.md",
+    "2. Area/Programming/01.03.01 BLE in Arduino.md",
+    "4. ARCHIVE/_Template/ID - New Block.md"
   ]
 }
