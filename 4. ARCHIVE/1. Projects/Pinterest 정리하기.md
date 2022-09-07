@@ -3,7 +3,7 @@ title: Pinterest 정리하기
 tags: _정리 _프로젝트관리
 state: 완료
 start-date: 2022-09-01
-end-date: YYYY-MM
+end-date: 2022-09
 ---
 
 # 개요

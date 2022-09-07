@@ -4,20 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e670a131659cfef2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "4. ARCHIVE/1. Projects/WatBand 개발.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "722982e985523cbe",
+        "id": "a3c2a8a26f4b40e8",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -30,7 +17,7 @@
         }
       },
       {
-        "id": "b821523b6a1f07bf",
+        "id": "171667ff65c194b7",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -67,10 +54,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#_coding",
+                "query": "",
                 "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -88,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 353.5
   },
   "right": {
     "id": "e363afef757d9f84",
@@ -104,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. ARCHIVE/1. Projects/WatBand 개발.md",
+                "file": "4. ARCHIVE/1. Projects/ECG Analysis with Matlab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. ARCHIVE/1. Projects/WatBand 개발.md",
+                "file": "4. ARCHIVE/1. Projects/ECG Analysis with Matlab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. ARCHIVE/1. Projects/WatBand 개발.md"
+                "file": "4. ARCHIVE/1. Projects/ECG Analysis with Matlab.md"
               }
             }
           },
@@ -163,17 +150,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e670a131659cfef2",
+  "active": "a3c2a8a26f4b40e8",
   "lastOpenFiles": [
-    "4. ARCHIVE/1. Projects/ECG Analysis with Matlab.md",
-    "4. ARCHIVE/1. Projects/Project Management Seminar.md",
-    "4. ARCHIVE/1. Projects/WatBand 개발.md",
-    "2. Area/Programming/01.04.03 포인터란.md",
-    "2. Area/Programming/01.04.02 라이브러리 만들기.md",
     "4. ARCHIVE/_Settings/00.00.01 두 번째 뇌.md",
-    "2. Area/Programming/01.04.01 enum 사용하기.md",
-    "4. ARCHIVE/1. Projects/WatBand/FFT in  Arduino.md",
-    "2. Area/Programming/01.03.01 BLE in Arduino.md",
-    "4. ARCHIVE/_Template/ID - New Block.md"
+    "_Temp/01.05.02 Relative path.md",
+    "4. ARCHIVE/_Settings/_Template/ID - New Block.md",
+    "4. ARCHIVE/1. Projects/ECG Analysis with Matlab.md",
+    "4. ARCHIVE/_Settings/assets/HRV factors.png",
+    "4. ARCHIVE/1. Projects/Momentum Clone coding/JS 난독화.md",
+    "4. ARCHIVE/_Settings/한글 폰트.md",
+    "4. ARCHIVE/_Settings/About Obsidian Extensions.md",
+    "2. Area/Management/00.02.03 특정 결과를 얻기보다 흐름을 유지하라.md",
+    "4. ARCHIVE/3. Resources/토막글/프로젝트를 날 잡아서 하려고 하지 마라.md"
   ]
 }
