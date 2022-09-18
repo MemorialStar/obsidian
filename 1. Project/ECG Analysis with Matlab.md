@@ -27,13 +27,41 @@ ECG데이터와 이와 관련된 biosignals(Chest Expansion, Skin temp., REspira
 
 # Milestones
 ---
-- [ ] 
+- [ ] 주어진 데이터를 각 signal 별로 나누어 ~~리스트~~ DataFrame 형태로 저장하는 함수 제작
+- [ ] ECG data filtering
+- [ ] 주어진 data를 시작 시각과 끝 시각으로 자르는 함수 제작
+	- [ ] 각 인터벌이 시작되는 시간(unit: sec.)을 리스트-timeInt로 저장한 후 이를 for문을 사용해 불러온다.
+- [ ] 주어진 HRV data에 대해 아래 값을 계산하는 함수 제작;
+	- [ ] RRMED
+	- [ ] RRIQR
+	- [ ] SDNN
+	- [ ] RMSSD
+	- [ ] Power v.s. Frequency domain graph + LF, HF
+- [ ] 주어진 데이터에 대해 평균값을 계산하는 함수 제작. 이는 GSR, SKIN TEMP., BR의 데이터 해석에 사용된다.
+- [ ] 위의 함수들을 통해 저장된 값의 리스트를 y축, timeInt에서 각 시간 간격에 대한 레이블을 x축으로 설정하여 그래프를 그리는 함수 작성
 
 
 # Related Blocks
 ---
+[[01.05.04 pandas - 데이터 불러오기]]
+[[01.05.07 python naming rule]]
+[[01.05.06 python - string formatting]]
+[[01.05.03 IndentationError - unexpected indent]]
+[[01.05.05 pyplot - 그래프 그리기]]
 
-
+# Log
+---
+- kaggle을 참고하여 ecg 필터링 함수 및 시각화 구현 완료
+	- 데이터 포맷에 맞게, ms -> s로 바꾸어서
+- 작업한 ipynb 파일을 여러 개의 python 파일들로 나누어 리팩터링 진행
+	- load_data
+	- peak_detection
+	- graph
+	- preprocess
+	- analyze
+- 모든 결과값이 정상값과 매우 다르게 나옴. Welch method의 파라미터 값을 바꿈에 따라 값이 바뀜. 파라미터 세팅은 [다음](https://www.biopac.com/wp-content/uploads/app246.pdf)을 참고했음.
+- 데이터 형식이 각자 다름. NAS에서 원본 데이터를 확인해볼 예정
+- 
 # References
 ---
 https://oatext.com/heart-rate-variability-highlights-from-hidden-signals.php

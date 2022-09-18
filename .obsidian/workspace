@@ -4,29 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a3c2a8a26f4b40e8",
+        "id": "3a705482fe28c3e4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "4. ARCHIVE/1. Projects/ECG Analysis with Matlab.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "171667ff65c194b7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "4. ARCHIVE/_Settings/00.00.01 두 번째 뇌.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -54,8 +36,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "00.01.0",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
@@ -91,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. ARCHIVE/1. Projects/ECG Analysis with Matlab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. ARCHIVE/1. Projects/ECG Analysis with Matlab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4. ARCHIVE/1. Projects/ECG Analysis with Matlab.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,19 +126,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "a3c2a8a26f4b40e8",
+  "active": "3a705482fe28c3e4",
   "lastOpenFiles": [
     "4. ARCHIVE/_Settings/00.00.01 두 번째 뇌.md",
-    "_Temp/01.05.02 Relative path.md",
-    "4. ARCHIVE/_Settings/_Template/ID - New Block.md",
-    "4. ARCHIVE/1. Projects/ECG Analysis with Matlab.md",
-    "4. ARCHIVE/_Settings/assets/HRV factors.png",
-    "4. ARCHIVE/1. Projects/Momentum Clone coding/JS 난독화.md",
-    "4. ARCHIVE/_Settings/한글 폰트.md",
-    "4. ARCHIVE/_Settings/About Obsidian Extensions.md",
-    "2. Area/Management/00.02.03 특정 결과를 얻기보다 흐름을 유지하라.md",
-    "4. ARCHIVE/3. Resources/토막글/프로젝트를 날 잡아서 하려고 하지 마라.md"
+    "2. Area/SocialScience/00.01.05.a 확증편향.md",
+    "3. Resource/Literature/06.00.01 무제.md",
+    "2. Area/Mental/00.03.03 Dare to know.md",
+    "2. Area/UX/03.00.04 적절한 폰트를 얻고 싶다면.md",
+    "3. Resource/Books/제텔카스텐.md",
+    "2. Area/Management/00.01.04.a 피드백을 피하지 말고 추구하라.md",
+    "2. Area/Management/00.00.03.b 진정한 전문가는 계획을 세우지 않는다.md",
+    "2. Area/Mental/00.01.02 감정이 상했거나 누군가가 감정을 상하게 만들었다면.md",
+    "2. Area/UX/03.00.03.a 애플 핫코너 노트.md"
   ]
 }
