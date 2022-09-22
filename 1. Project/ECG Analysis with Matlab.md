@@ -53,6 +53,19 @@ ECG데이터와 이와 관련된 biosignals(Chest Expansion, Skin temp., REspira
 ---
 - kaggle을 참고하여 ecg 필터링 함수 및 시각화 구현 완료
 	- 데이터 포맷에 맞게, ms -> s로 바꾸어서
+	- ecg 필터링 방법
+		1. scipy.signal.butter를 이용하여 butterworth filter적용, ecg signal이 아닌 그래프 전체적인 개형을 판별
+			b, a = signal.butter(3, 0.07)
+			shape = signal.filtfilt(b, a, ecg_signal)
+		2. 1의 필터를 통해 얻어낸 개형을 제거하여 ecg signal만 추출
+		3. ~~signal에서 correlation 혹은 template를 이용해 피크 검출
+			if qrs_filter is None:
+			(뒤의 숫자가 클수록 거시적인 부분을 그려냄!)
+			t = np.linspace(1.5 * np.pi, 3.5 * np.pi, factor)
+			z = 1/(1 + np.exp(-t))
+			qrs_filter = z*(1-z)
+		4. signal에서 hann windowing 및 convolution을 이용하여 피크 검출
+			windowing을 하면 마지막 부분이 잘리게 되는데 이를 0으로 채움
 - 작업한 ipynb 파일을 여러 개의 python 파일들로 나누어 리팩터링 진행
 	- load_data
 	- peak_detection
@@ -61,9 +74,11 @@ ECG데이터와 이와 관련된 biosignals(Chest Expansion, Skin temp., REspira
 	- analyze
 - 모든 결과값이 정상값과 매우 다르게 나옴. Welch method의 파라미터 값을 바꿈에 따라 값이 바뀜. 파라미터 세팅은 [다음](https://www.biopac.com/wp-content/uploads/app246.pdf)을 참고했음.
 - 데이터 형식이 각자 다름. NAS에서 원본 데이터를 확인해볼 예정
-- 
+	- 형식은 같으나 중간에 다시 측정된 부분이 있는 데이터가 존재함. 이를 통일시켜주는 코드 작성
+- group peak를 median이 아니라 mean을 이용하여 계산. median으로 할 경우 FDS가 ecg filter threshold(FILTER_THRESHOLD)에 따라 신뢰할 수 없을 정도로 변하기 때문.
 # References
 ---
 https://oatext.com/heart-rate-variability-highlights-from-hidden-signals.php
 http://www.koreascience.kr/article/JAKO200634515155251.pdf ^f3fa1e
 https://www.kaggle.com/code/stetelepta/exploring-heart-rate-variability-using-python
+https://swharden.com/blog/2020-09-23-signal-filtering-in-python/

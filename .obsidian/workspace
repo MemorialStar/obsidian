@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3a705482fe28c3e4",
+        "id": "6ee6a5040572ff13",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1. Project/ECG Analysis with Matlab.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "00.01.0",
+                "query": "ECG",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -53,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Project/ECG Analysis with Matlab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Project/ECG Analysis with Matlab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Project/ECG Analysis with Matlab.md"
+              }
             }
           },
           {
@@ -129,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a705482fe28c3e4",
+  "active": "6ee6a5040572ff13",
   "lastOpenFiles": [
-    "4. ARCHIVE/_Settings/00.00.01 두 번째 뇌.md",
-    "2. Area/SocialScience/00.01.05.a 확증편향.md",
-    "3. Resource/Literature/06.00.01 무제.md",
-    "2. Area/Mental/00.03.03 Dare to know.md",
-    "2. Area/UX/03.00.04 적절한 폰트를 얻고 싶다면.md",
-    "3. Resource/Books/제텔카스텐.md",
-    "2. Area/Management/00.01.04.a 피드백을 피하지 말고 추구하라.md",
-    "2. Area/Management/00.00.03.b 진정한 전문가는 계획을 세우지 않는다.md",
-    "2. Area/Mental/00.01.02 감정이 상했거나 누군가가 감정을 상하게 만들었다면.md",
-    "2. Area/UX/03.00.03.a 애플 핫코너 노트.md"
+    "1. Project/ECG Analysis with Matlab.md",
+    "_Temp/python - 함수 인자의 형식 정하기.md",
+    "2. Area/Programming/01.03.01 BLE in Arduino.md",
+    "2. Area/Programming/01.05.06 python - string formatting.md",
+    "4. ARCHIVE/_Settings/한글 폰트.md",
+    "_Temp/pandas - 원하는 조건의 값(들) 찾기.md",
+    "_Temp/python - 리스트가 중복된 값을 갖고 있는지 확인하는 방법.md",
+    "_Temp/python - list 조작.md",
+    "2. Area/Programming/01.05.04.a pandas 형변환이 안 됨.md",
+    "2. Area/Programming/01.05.04 pandas - 데이터 불러오기.md"
   ]
 }
