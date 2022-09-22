@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Project/ECG Analysis with Matlab.md",
+            "file": "_Temp/python - 다양한 그래프 시각화 방법.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/ECG Analysis with Matlab.md",
+                "file": "_Temp/python - 다양한 그래프 시각화 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/ECG Analysis with Matlab.md",
+                "file": "_Temp/python - 다양한 그래프 시각화 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/ECG Analysis with Matlab.md"
+                "file": "_Temp/python - 다양한 그래프 시각화 방법.md"
               }
             }
           },

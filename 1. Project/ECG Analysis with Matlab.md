@@ -82,3 +82,4 @@ https://oatext.com/heart-rate-variability-highlights-from-hidden-signals.php
 http://www.koreascience.kr/article/JAKO200634515155251.pdf ^f3fa1e
 https://www.kaggle.com/code/stetelepta/exploring-heart-rate-variability-using-python
 https://swharden.com/blog/2020-09-23-signal-filtering-in-python/
+https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/
