@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6ee6a5040572ff13",
+        "id": "b44977ee46d73882",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Temp/python - 다양한 그래프 시각화 방법.md",
+            "file": "1. Project/Circuits & Electronics.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ECG",
+                "query": "01.05.",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Temp/python - 다양한 그래프 시각화 방법.md",
+                "file": "1. Project/Circuits & Electronics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Temp/python - 다양한 그래프 시각화 방법.md",
+                "file": "1. Project/Circuits & Electronics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Temp/python - 다양한 그래프 시각화 방법.md"
+                "file": "1. Project/Circuits & Electronics.md"
               }
             }
           },
@@ -132,24 +131,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "6ee6a5040572ff13",
+  "active": "40a750e65a43513f",
   "lastOpenFiles": [
-    "1. Project/ECG Analysis with Matlab.md",
-    "_Temp/python - 함수 인자의 형식 정하기.md",
-    "2. Area/Programming/01.03.01 BLE in Arduino.md",
-    "2. Area/Programming/01.05.06 python - string formatting.md",
-    "4. ARCHIVE/_Settings/한글 폰트.md",
-    "_Temp/pandas - 원하는 조건의 값(들) 찾기.md",
-    "_Temp/python - 리스트가 중복된 값을 갖고 있는지 확인하는 방법.md",
+    "4. ARCHIVE/_Settings/00.00.01 두 번째 뇌.md",
+    "1. Project/Circuits & Electronics.md",
+    "1. Project/LGE study.md",
+    "2. Area/Programming/01.05.09 python - 함수 인자의 형식 정하기.md",
+    "2. Area/Programming/01.05.05.a python - 다양한 그래프 시각화 방법.md",
+    "2. Area/Programming/01.05.04.c python - 리스트가 중복된 값을 갖고 있는지 확인하는 방법.md",
     "_Temp/python - list 조작.md",
-    "2. Area/Programming/01.05.04.a pandas 형변환이 안 됨.md",
-    "2. Area/Programming/01.05.04 pandas - 데이터 불러오기.md"
+    "2. Area/Programming/01.05.04.b pandas - 원하는 조건의 값(들) 찾기.md",
+    "_Temp/Untitled.md",
+    "1. Project/Sustainable Energy.md"
   ]
 }

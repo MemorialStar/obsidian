@@ -2,7 +2,7 @@
 title :
 state : 계획 | 진행중 | 완료 | 중단
 start-date : {{date}}
-end-date : YYYY-MM
+end-date : YYYY-MM-DD
 tags :
 ---
 # Overview

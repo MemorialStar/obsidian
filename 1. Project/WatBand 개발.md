@@ -1,8 +1,8 @@
 ---
 title :
-state : 진행중
+state : 중단
 start-date : 22.06.01
-end-date : YYYY-MM
+end-date : 2022.09.26
 tags : _arduino, _coding, _hardware, _3dmodeling, _ML
 ---
 # Overview
