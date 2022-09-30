@@ -7,8 +7,13 @@
         "id": "3a705482fe28c3e4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2. Area/Programming/01.03.01 BLE in Arduino.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "00.01.0",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Area/Programming/01.03.01 BLE in Arduino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Area/Programming/01.03.01 BLE in Arduino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Area/Programming/01.03.01 BLE in Arduino.md"
+              }
             }
           },
           {
@@ -129,7 +138,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a705482fe28c3e4",
+  "active": "342afcd6378741cc",
   "lastOpenFiles": [
     "4. ARCHIVE/_Settings/00.00.01 두 번째 뇌.md",
     "2. Area/SocialScience/00.01.05.a 확증편향.md",
