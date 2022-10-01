@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Project/LGE study.md",
+            "file": "_Temp/LGE - 연구내용.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/LGE study.md",
+                "file": "_Temp/LGE - 연구내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/LGE study.md",
+                "file": "_Temp/LGE - 연구내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/LGE study.md"
+                "file": "_Temp/LGE - 연구내용.md"
               }
             }
           },
@@ -139,10 +139,10 @@
   },
   "active": "b44977ee46d73882",
   "lastOpenFiles": [
+    "1. Project/LGE study.md",
     "1. Project/Circuits & Electronics.md",
     "_Temp/VR가 mindfulness practice와 그 치료 효과에 도움을 준다.md",
     "_Temp/ㄴㅇㄹ.md",
-    "1. Project/LGE study.md",
     "_Temp/Flutter - Expanded란.md",
     "2. Area/Programming/01.06.01.a Flutter - 자주 쓸 만한 컴포넌트 모음.md",
     "4. ARCHIVE/_Settings/About Obsidian Extensions.md",
