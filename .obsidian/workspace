@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< Updated upstream
             "file": "2. Area/Programming/01.03.01 BLE in Arduino.md",
+=======
+            "file": "1. Project/LGE study.md",
+>>>>>>> Stashed changes
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +82,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "2. Area/Programming/01.03.01 BLE in Arduino.md",
+=======
+                "file": "1. Project/LGE study.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +103,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "2. Area/Programming/01.03.01 BLE in Arduino.md",
+=======
+                "file": "1. Project/LGE study.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +130,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "2. Area/Programming/01.03.01 BLE in Arduino.md"
+=======
+                "file": "1. Project/LGE study.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -138,6 +154,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< Updated upstream
   "active": "342afcd6378741cc",
   "lastOpenFiles": [
     "4. ARCHIVE/_Settings/00.00.01 두 번째 뇌.md",
@@ -150,5 +167,19 @@
     "2. Area/Management/00.00.03.b 진정한 전문가는 계획을 세우지 않는다.md",
     "2. Area/Mental/00.01.02 감정이 상했거나 누군가가 감정을 상하게 만들었다면.md",
     "2. Area/UX/03.00.03.a 애플 핫코너 노트.md"
+=======
+  "active": "b44977ee46d73882",
+  "lastOpenFiles": [
+    "_Temp/VR가 mindfulness practice와 그 치료 효과에 도움을 준다.md",
+    "_Temp/Flutter - Expanded란.md",
+    "_Temp/ㄴㅇㄹ.md",
+    "1. Project/LGE study.md",
+    "2. Area/Programming/01.06.01.a Flutter - 자주 쓸 만한 컴포넌트 모음.md",
+    "4. ARCHIVE/_Settings/About Obsidian Extensions.md",
+    "4. ARCHIVE/_Settings/Obsidian plugins list.md",
+    "4. ARCHIVE/_Settings/한글 폰트.md",
+    "1. Project/Circuits & Electronics.md",
+    "4. ARCHIVE/_Settings/00.00.01 두 번째 뇌.md"
+>>>>>>> Stashed changes
   ]
 }
