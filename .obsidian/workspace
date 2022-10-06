@@ -9,7 +9,33 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "4. ARCHIVE/1. Projects/ECG Analysis with Python.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4c8f5024c619cb27",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "_Temp/LGE - 연구내용.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3486467c3d90b970",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "4. ARCHIVE/_Settings/00.00.01 두 번째 뇌.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ecg",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -58,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Temp/LGE - 연구내용.md",
+                "file": "4. ARCHIVE/1. Projects/ECG Analysis with Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Temp/LGE - 연구내용.md",
+                "file": "4. ARCHIVE/1. Projects/ECG Analysis with Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Temp/LGE - 연구내용.md"
+                "file": "4. ARCHIVE/1. Projects/ECG Analysis with Python.md"
               }
             }
           },
@@ -139,15 +166,15 @@
   },
   "active": "b44977ee46d73882",
   "lastOpenFiles": [
+    "_Temp/연구제안서 체크리스트.md",
+    "_Temp/LGE - 연구내용.md",
+    "4. ARCHIVE/_Settings/00.00.01 두 번째 뇌.md",
     "1. Project/LGE study.md",
-    "1. Project/Circuits & Electronics.md",
-    "_Temp/VR가 mindfulness practice와 그 치료 효과에 도움을 준다.md",
-    "_Temp/ㄴㅇㄹ.md",
+    "_Temp/LGE - 추진체계 및 협력방안.md",
+    "4. ARCHIVE/1. Projects/Pinterest 정리하기.md",
+    "4. ARCHIVE/_Settings/assets/추진체계 예시.png",
     "_Temp/Flutter - Expanded란.md",
-    "2. Area/Programming/01.06.01.a Flutter - 자주 쓸 만한 컴포넌트 모음.md",
-    "4. ARCHIVE/_Settings/About Obsidian Extensions.md",
-    "4. ARCHIVE/_Settings/Obsidian plugins list.md",
-    "4. ARCHIVE/_Settings/한글 폰트.md",
-    "4. ARCHIVE/_Settings/00.00.01 두 번째 뇌.md"
+    "1. Project/Circuits & Electronics.md",
+    "_Temp/VR가 mindfulness practice와 그 치료 효과에 도움을 준다.md"
   ]
 }

@@ -3,7 +3,7 @@ title: ECG Analysis with Python
 tags: _python, _ecg, _coding
 state: 완료
 start-date: 22.08.18
-end-date: 2022-09-26
+end-date: 2022-10-06
 ---
 # Overview
 ---
@@ -83,6 +83,7 @@ ECG데이터와 이와 관련된 biosignals(Chest Expansion, Skin temp., REspira
 - power analysis에 대한 그래프가 갑자기 나오지 않음
 	- result 리스트를 출력하는 디버깅을 통해 append가 안 됨을 확인, 이후 원인이 리팩터링 과정에서 return elements가 아니라 return result.append(elements) 형식으로 되어 있음을 확인하여 수정
 - bar graph 표시 함수 추가
+- 주어진 포맷에 맞춰 그래프 plot 재진행
 # References
 ---
 https://oatext.com/heart-rate-variability-highlights-from-hidden-signals.php
