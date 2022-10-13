@@ -1,13 +1,14 @@
 ---
 title: Project Management Seminar
 tags: _프로젝트관리, _readings, _presentation
-state: 진행중
+state: 완료
 start-date: 22.08.15
 end-date: YYYY-MM
 ---
 
 # Overview
 ---
+사혁신 발표 주제로 프로젝트를 관리하는 방법을 선택했다. 이 페이지는 그를 준비하면서 정리한 노트이다.
 
 # Milestones
 ---

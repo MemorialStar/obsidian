@@ -1,4 +1,8 @@
 {
   "translucency": false,
-  "cssTheme": "Wasp"
+  "cssTheme": "Wasp",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Noto Sans KR",
+  "baseFontSize": 16,
+  "monospaceFontFamily": "RIDIBatang"
 }
