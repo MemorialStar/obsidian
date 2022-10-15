@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f18c9ddf832f9bdd",
+        "id": "4c053bd0c8111ac8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Temp/Untitled 2.md",
+            "file": "_Temp/운동하기.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,8 +41,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "한글",
-                "matchingCase": false,
+                "query": "02.01.",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 289.5
   },
   "right": {
     "id": "e363afef757d9f84",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Temp/Untitled 2.md",
+                "file": "_Temp/운동하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Temp/Untitled 2.md",
+                "file": "_Temp/운동하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Temp/Untitled 2.md"
+                "file": "_Temp/운동하기.md"
               }
             }
           },
@@ -131,23 +131,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f18c9ddf832f9bdd",
+  "active": "4c053bd0c8111ac8",
   "lastOpenFiles": [
-    "_Temp/Untitled.md",
-    "_Temp/Untitled 1.md",
-    "_Temp/Untitled 2.md",
-    "_Temp/무제노트.md",
-    "1. Project/LGE study.md",
-    "1. Project/Circuits & Electronics.md",
-    "4. ARCHIVE/_Settings/한글 폰트.md",
-    "_Temp/[G마켓.md",
-    "2. Area/SocialScience/00.02.06 뇌는 끝마치지 못한 일을 계속 잡고 있는다.md",
-    "2. Area/Mental/00.01.06 호흡명상의 원리에 관하여.md"
+    "4. ARCHIVE/_Settings/assets/YMCA 스텝검사.png",
+    "_Temp/운동하기.md",
+    "4. ARCHIVE/_Settings/assets/특전사 점수표.png",
+    "_Temp/02.01.01 어느 분야가 전문가가 될 수 있는 분야인가.md",
+    "_Temp/전문성 체크리스트.md",
+    "_Temp/전문가가 되는 방법.md",
+    "4. ARCHIVE/_Settings/00.00.01 두 번째 뇌.md",
+    "4. ARCHIVE/1. Projects/JSBasicProject/ColorFlipper/01.01.01 시멘틱 태그를 사용해야 하는 이유.md",
+    "_Temp/코드 검색.md",
+    "_Temp/Untitled 1.md"
   ]
 }
