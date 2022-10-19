@@ -4,5 +4,6 @@
   "interfaceFontFamily": "",
   "textFontFamily": "Noto Sans KR",
   "baseFontSize": 16,
-  "monospaceFontFamily": "RIDIBatang"
+  "monospaceFontFamily": "RIDIBatang",
+  "accentColor": ""
 }
