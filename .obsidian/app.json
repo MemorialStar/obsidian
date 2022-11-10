@@ -7,5 +7,12 @@
   ],
   "newFileLocation": "folder",
   "newFileFolderPath": "_Temp",
-  "attachmentFolderPath": "4. ARCHIVE/_Settings/assets"
+  "attachmentFolderPath": "4. ARCHIVE/_Settings/assets",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 81
+  }
 }
