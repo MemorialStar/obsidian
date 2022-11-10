@@ -14,8 +14,61 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "4953c050d23793dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Temp/이해와 공감.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4b20703acf82be4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Temp/루틴.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c730f2d887caf22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Temp/프랑스어.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c742cdccbc056e46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Temp/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/SocialScience/02.01.01 어느 분야가 전문가가 될 수 있는 분야인가.md",
+                "file": "_Temp/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/SocialScience/02.01.01 어느 분야가 전문가가 될 수 있는 분야인가.md",
+                "file": "_Temp/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/SocialScience/02.01.01 어느 분야가 전문가가 될 수 있는 분야인가.md"
+                "file": "_Temp/Untitled.md"
               }
             }
           },
@@ -140,20 +193,17 @@
     "direction": "horizontal",
     "width": 214.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "342afcd6378741cc",
+  "active": "c742cdccbc056e46",
   "lastOpenFiles": [
+    "_Temp/프랑스어.md",
+    "_Temp/루틴.md",
+    "_Temp/이해와 공감.md",
     "2. Area/Management/00.02.05.a 전문가가 되는 방법.md",
     "3. Resource/Art/03.01.00 대전예술비엔날레.md",
     "4. ARCHIVE/_Settings/00.00.01 두 번째 뇌.md",
     "2. Area/SocialScience/02.01.01 어느 분야가 전문가가 될 수 있는 분야인가.md",
     "2. Area/Management/00.02.05.b 전문성 체크리스트.md",
     "2. Area/Management/00.01.07 일기-나의 꿈.md",
-    "2. Area/Management/00.02.05 자기관리 단계.md",
-    "2. Area/Management/00.02.04 기획도 기승전결을 갖추어서.md",
-    "2. Area/SocialScience/00.01.05.b 확증편향.md",
-    "2. Area/Management/00.01.05.a 창조는 빈 공간에서부터 나온다.md"
+    "2. Area/Management/00.02.05 자기관리 단계.md"
   ]
 }
