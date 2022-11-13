@@ -4,59 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3cf320c7c1034d07",
+        "id": "16646468119c2f5c",
         "type": "tabs",
         "children": [
           {
-            "id": "3748f17da3cd7974",
+            "id": "58fe8f9757df01a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Temp/Analytics와 Analysis의 종류.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c38def429595a9ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Temp/Normal Distribution.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd2bbfbf00da8ee9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Temp/Introduction to DATA Science.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59c9a99d0496901a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Temp/Data scientists의 덕목.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "00.01.03",
+                "query": "00.01.01.",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -105,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Temp/Analytics와 Analysis의 종류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Temp/Analytics와 Analysis의 종류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Temp/Analytics와 Analysis의 종류.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,17 +137,17 @@
     "direction": "horizontal",
     "width": 351.5
   },
-  "active": "3748f17da3cd7974",
+  "active": "58fe8f9757df01a9",
   "lastOpenFiles": [
-    "4. ARCHIVE/_Settings/assets/correlation.png",
-    "_Temp/Analytics와 Analysis의 종류.md",
-    "_Temp/왜 n-1인가.md",
-    "4. ARCHIVE/_Settings/assets/왜 표본의 분산은 n-1인가.png",
+    "_Temp/00.01.01.f 나에 관하여.md",
     "_Temp/Normal Distribution.md",
-    "_Temp/Introduction to DATA Science.md",
-    "_Temp/Analytics vs. Analysis.md",
-    "4. ARCHIVE/_Settings/assets/Normal distribution skewness.png",
-    "_Temp/Data scientists의 덕목.md",
-    "_Temp/데이터의 종류.md"
+    "2. Area/Mental/00.01.01.e 다른 모습을 원한다는 것은.md",
+    "2. Area/Management/00.01.01.a 나는 오늘 죽는다.md",
+    "2. Area/Mental/00.01.06 호흡명상의 원리에 관하여.md",
+    "2. Area/Management/00.02.05 자기관리 단계.md",
+    "2. Area/Mental/00.03.03 Dare to know.md",
+    "3. Resource/Books/생명이란 무엇인가.md",
+    "2. Area/Management/00.01.04 일기-여러 개의 나를 컨트롤하자.md",
+    "2. Area/Management/00.01.01.b 루틴.md"
   ]
 }
