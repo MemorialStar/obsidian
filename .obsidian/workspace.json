@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6da21b18ca10f7b4",
+        "id": "3cf320c7c1034d07",
         "type": "tabs",
         "children": [
           {
-            "id": "f1e9c3ca0a547e38",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4953c050d23793dc",
+            "id": "3748f17da3cd7974",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Temp/이해와 공감.md",
+                "file": "_Temp/Analytics와 Analysis의 종류.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,12 +21,12 @@
             }
           },
           {
-            "id": "a4b20703acf82be4",
+            "id": "c38def429595a9ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Temp/루틴.md",
+                "file": "_Temp/Normal Distribution.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,12 +34,12 @@
             }
           },
           {
-            "id": "5c730f2d887caf22",
+            "id": "fd2bbfbf00da8ee9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Temp/프랑스어.md",
+                "file": "_Temp/Introduction to DATA Science.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -55,20 +47,19 @@
             }
           },
           {
-            "id": "c742cdccbc056e46",
+            "id": "59c9a99d0496901a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Temp/Untitled.md",
+                "file": "_Temp/Data scientists의 덕목.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "00.02.0",
+                "query": "00.01.03",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -118,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 289.5
   },
   "right": {
     "id": "e363afef757d9f84",
@@ -134,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Temp/Untitled.md",
+                "file": "_Temp/Analytics와 Analysis의 종류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Temp/Untitled.md",
+                "file": "_Temp/Analytics와 Analysis의 종류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Temp/Untitled.md"
+                "file": "_Temp/Analytics와 Analysis의 종류.md"
               }
             }
           },
@@ -182,7 +173,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           }
@@ -191,19 +182,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 351.5
   },
-  "active": "c742cdccbc056e46",
+  "active": "3748f17da3cd7974",
   "lastOpenFiles": [
-    "_Temp/프랑스어.md",
-    "_Temp/루틴.md",
-    "_Temp/이해와 공감.md",
-    "2. Area/Management/00.02.05.a 전문가가 되는 방법.md",
-    "3. Resource/Art/03.01.00 대전예술비엔날레.md",
-    "4. ARCHIVE/_Settings/00.00.01 두 번째 뇌.md",
-    "2. Area/SocialScience/02.01.01 어느 분야가 전문가가 될 수 있는 분야인가.md",
-    "2. Area/Management/00.02.05.b 전문성 체크리스트.md",
-    "2. Area/Management/00.01.07 일기-나의 꿈.md",
-    "2. Area/Management/00.02.05 자기관리 단계.md"
+    "4. ARCHIVE/_Settings/assets/correlation.png",
+    "_Temp/Analytics와 Analysis의 종류.md",
+    "_Temp/왜 n-1인가.md",
+    "4. ARCHIVE/_Settings/assets/왜 표본의 분산은 n-1인가.png",
+    "_Temp/Normal Distribution.md",
+    "_Temp/Introduction to DATA Science.md",
+    "_Temp/Analytics vs. Analysis.md",
+    "4. ARCHIVE/_Settings/assets/Normal distribution skewness.png",
+    "_Temp/Data scientists의 덕목.md",
+    "_Temp/데이터의 종류.md"
   ]
 }

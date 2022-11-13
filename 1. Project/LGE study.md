@@ -95,7 +95,7 @@ how to research
 
 # Related Blocks
 ---
-[[명상 강연 스크립트]]
+[[00.05.01 명상 강연 스크립트]]
 
 
 # Log
