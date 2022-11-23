@@ -1,9 +1,9 @@
 {
   "translucency": false,
-  "cssTheme": "Wasp",
-  "interfaceFontFamily": "",
-  "textFontFamily": "Noto Sans KR",
-  "baseFontSize": 16,
-  "monospaceFontFamily": "RIDIBatang",
+  "cssTheme": "Things",
+  "interfaceFontFamily": "Han Santteut Dotum,SeoulNamsan",
+  "textFontFamily": "LG Smart_H,Han Santteut Dotum,Noto Sans KR",
+  "baseFontSize": 15,
+  "monospaceFontFamily": "SeoulHangang,RIDIBatang",
   "accentColor": ""
 }

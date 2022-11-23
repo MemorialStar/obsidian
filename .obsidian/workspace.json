@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "16646468119c2f5c",
+        "id": "150768467690978a",
         "type": "tabs",
         "children": [
           {
-            "id": "58fe8f9757df01a9",
+            "id": "d6ed7621bb941748",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Temp/What is data science.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "00.01.01.",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -61,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Temp/What is data science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Temp/What is data science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Temp/What is data science.md"
+              }
             }
           },
           {
@@ -131,23 +139,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 200
   },
-  "active": "58fe8f9757df01a9",
+  "active": "d6ed7621bb941748",
   "lastOpenFiles": [
-    "_Temp/00.01.01.f 나에 관하여.md",
-    "_Temp/Normal Distribution.md",
-    "2. Area/Mental/00.01.01.e 다른 모습을 원한다는 것은.md",
-    "2. Area/Management/00.01.01.a 나는 오늘 죽는다.md",
-    "2. Area/Mental/00.01.06 호흡명상의 원리에 관하여.md",
-    "2. Area/Management/00.02.05 자기관리 단계.md",
-    "2. Area/Mental/00.03.03 Dare to know.md",
-    "3. Resource/Books/생명이란 무엇인가.md",
-    "2. Area/Management/00.01.04 일기-여러 개의 나를 컨트롤하자.md",
-    "2. Area/Management/00.01.01.b 루틴.md"
+    "공부일기.md",
+    "_Temp/LIC Session preparation.md",
+    "_Temp/Introduction to DATA Science.md",
+    "_Temp/Analytics와 Analysis의 종류.md",
+    "_Temp/Data scientists의 덕목.md",
+    "_Temp/Computational Thinking.md",
+    "_Temp/What is data science.md",
+    "_Temp/데이터의 종류.md",
+    "_Temp/Analytics vs. Analysis.md",
+    "_Temp/데이터 전처리 과정.md"
   ]
 }
